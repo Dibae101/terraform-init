@@ -7,5 +7,5 @@ checks script
 apply and deploy
 ### terraform apply
 
-distroy services
+destroy services
 ### terraform destroy
